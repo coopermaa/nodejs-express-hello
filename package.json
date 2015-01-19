@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-express-hello",
+  "version": "0.0.1",
+  "description": "A sample Node.js app using Express 4",
+  "author": "Cooper Maa <coopermaa77@gmail.com>",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
