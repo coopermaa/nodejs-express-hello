@@ -7,7 +7,7 @@ A barebones Node.js app using Express 4.
 Make sure you have Node.js and npm installed.
 
 ```
-git clone https://github.com/coopermaa/node-webduino.git
+git clone https://github.com/coopermaa/nodejs-express-hello.git
 cd nodejs-express-hello
 npm install
 npm start
